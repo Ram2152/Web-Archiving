@@ -1,0 +1,144 @@
+@font-face {
+	font-family: "ws-icons";
+	font-display: block;
+	src: url("/fonts/ws-icons.woff2?93ce65b32245ea930ec9d840f7b7ef46") format("woff2");
+}
+
+.ws-icon {
+	line-height: 1;
+}
+
+.ws-icon:before {
+	font-family: ws-icons !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.ws-icon-arrow:before {
+	content: "\f101";
+}
+.ws-icon-chrome-500:before {
+	content: "\f102";
+}
+.ws-icon-chrome-dark:before {
+	content: "\f103";
+}
+.ws-icon-database-export:before {
+	content: "\f104";
+}
+.ws-icon-down:before {
+	content: "\f105";
+}
+.ws-icon-download-from-the-cloud-125:before {
+	content: "\f106";
+}
+.ws-icon-dropbox:before {
+	content: "\f107";
+}
+.ws-icon-earth-care:before {
+	content: "\f108";
+}
+.ws-icon-edge-500:before {
+	content: "\f109";
+}
+.ws-icon-edge-dark:before {
+	content: "\f10a";
+}
+.ws-icon-facebook-f:before {
+	content: "\f10b";
+}
+.ws-icon-faqicon-1:before {
+	content: "\f10c";
+}
+.ws-icon-firefox-500:before {
+	content: "\f10d";
+}
+.ws-icon-firefox-dark:before {
+	content: "\f10e";
+}
+.ws-icon-flag-of-europe:before {
+	content: "\f10f";
+}
+.ws-icon-flag:before {
+	content: "\f110";
+}
+.ws-icon-grid:before {
+	content: "\f111";
+}
+.ws-icon-javascript-125:before {
+	content: "\f112";
+}
+.ws-icon-left:before {
+	content: "\f113";
+}
+.ws-icon-linkedin:before {
+	content: "\f114";
+}
+.ws-icon-mail-icon:before {
+	content: "\f115";
+}
+.ws-icon-marker-icon:before {
+	content: "\f116";
+}
+.ws-icon-networking-manager-125:before {
+	content: "\f117";
+}
+.ws-icon-password-window:before {
+	content: "\f118";
+}
+.ws-icon-paste:before {
+	content: "\f119";
+}
+.ws-icon-reddit:before {
+	content: "\f11a";
+}
+.ws-icon-rest-api-125:before {
+	content: "\f11b";
+}
+.ws-icon-right:before {
+	content: "\f11c";
+}
+.ws-icon-schedule-125:before {
+	content: "\f11d";
+}
+.ws-icon-search-property:before {
+	content: "\f11e";
+}
+.ws-icon-sign-up-in-calendar:before {
+	content: "\f11f";
+}
+.ws-icon-software-installer:before {
+	content: "\f120";
+}
+.ws-icon-star:before {
+	content: "\f121";
+}
+.ws-icon-technical-support:before {
+	content: "\f122";
+}
+.ws-icon-telegram:before {
+	content: "\f123";
+}
+.ws-icon-transfer-125:before {
+	content: "\f124";
+}
+.ws-icon-twitter:before {
+	content: "\f125";
+}
+.ws-icon-vpn-125:before {
+	content: "\f126";
+}
+.ws-icon-web-125:before {
+	content: "\f127";
+}
+.ws-icon-webhook-125:before {
+	content: "\f128";
+}
+.ws-icon-whatsapp:before {
+	content: "\f129";
+}
+.ws-icon-youtube:before {
+	content: "\f12a";
+}
+
